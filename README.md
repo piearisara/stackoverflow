@@ -1,6 +1,6 @@
 # Stack Overflow Developer Survey 2017 Analysis
 
-This repository contains data analysis based on the Stack Overflow Developer Survey 2017. The goal of the analysis is to inform business strategies.
+This repository contains data analysis based on the Stack Overflow Developer Survey 2017. The goal of the analysis is to inform business strategies. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,6 +16,8 @@ git clone https://github.com/piearisara/stackoverflow.git
 cd stackoverflow
 pip install -r requirements.txt
 ```
+
+Please download the data from [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017?select=survey_results_schema.csv).
 
 ## Analysis Questions
 
